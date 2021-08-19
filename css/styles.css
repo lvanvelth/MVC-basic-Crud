@@ -1,0 +1,12 @@
+table{
+    margin: auto;
+}
+h1{
+    text-align: center;
+} 
+td{
+    border: 1px solid black;
+}
+span{
+    margin-top: 25px;
+}
